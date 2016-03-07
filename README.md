@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+# InstagramApp
+
+>>>>>>> eb05f544b852a8083d8d92b779e6c3cb9d3785e2
 # Project 6 - *Instagram*
 
 **Instagram** is a photo sharing app using Parse as its backend.
 
+<<<<<<< HEAD
 Time spent: **20** hours spent in total
+=======
+Time spent: **15** hours spent in total
+>>>>>>> eb05f544b852a8083d8d92b779e6c3cb9d3785e2
 
 ## User Stories
 
@@ -25,6 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+<<<<<<< HEAD
 - [x] List anything else that you can get done to improve the app functionality!
 - Pull to refresh
 
@@ -34,21 +44,41 @@ Please list two areas of the assignment you'd like to **discuss further with you
 2. How can it automatically refresh the home page after successfully submit a post?
 3. How to hide password?
 4. How to set hitting return key to login after typign password?
+=======
+- [ ] List anything else that you can get done to improve the app functionality!
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1. 
+2. 
+>>>>>>> eb05f544b852a8083d8d92b779e6c3cb9d3785e2
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+<<<<<<< HEAD
 ![Walkthrough](instagram.gif)
+=======
+<img src= 'insta.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+>>>>>>> eb05f544b852a8083d8d92b779e6c3cb9d3785e2
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+<<<<<<< HEAD
 It was difficult to use parse because i did not know how to get api to my app.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
+=======
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2016] [Esme Romero]
+>>>>>>> eb05f544b852a8083d8d92b779e6c3cb9d3785e2
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
